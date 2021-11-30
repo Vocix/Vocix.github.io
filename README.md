@@ -1,2 +1,2 @@
 # Tiziano Vocino
-### Ho utilizzato bootsrap, templatemo, Font Awesome, Fromspree
+### Ho utilizzato bootsrap, templatemo, Font Awesome, Formspree
