@@ -1,2 +1,2 @@
 # Tiziano Vocino
-### Ho utilizzato boo
+### Ho utilizzato bootsrap, templatemo, Font Awesome, Fromspree
