@@ -697,7 +697,7 @@ h6 {
   z-index: 18;
   padding: 80px 0;
   margin-top: -40px;
-  background: url(../images/bg2.png) no-repeat top center;
+  
   background-size: cover;
 }
 .second-section .col-md-3 {
@@ -708,12 +708,12 @@ h6 {
   font-weight: 600;
 }
 .third-section {
-  color: #fff;
+  color: rgb(0, 0, 0);
   position: relative;
   z-index: 19;
   padding: 80px 0 20px 0;
   margin-top: -20px;
-  background: url(../images/bg3.png) no-repeat top center;
+  
   background-size: cover;
 }
 .third-section h2 {
@@ -740,16 +740,16 @@ h6 {
 }
 .third-section ol li p {
   margin: 0 0 20px 20px;
-  color: #fff;
+  color: rgb(0, 0, 0);
 }
 .third-section ol li ol {
   margin: 0 0 30px 20px;
 }
 .third-section ol.no-color li {
-  color: #fff;
+  color: rgb(0, 0, 0);
 }
 .fourth-section {
-  color: #fff;
+  color: rgb(255, 255, 255);
   position: relative;
   z-index: 19;
   padding: 150px 0;
@@ -1061,3 +1061,6 @@ button.main-button,
 /* ==========================================================================
    Media Queries
    ========================================================================== */
+   .tondi {
+    border-radius: 10%;
+}
